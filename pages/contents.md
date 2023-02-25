@@ -10,4 +10,4 @@
 	- [[Visit Fric and Nancy Nov 13, 2022]]
 - [[Salon AI]]
 	- [[Salon AI/Setup]]
-	-
+	- [[AI Topics - from Conversations with Scott]]
