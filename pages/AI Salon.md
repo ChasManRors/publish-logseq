@@ -8,7 +8,10 @@
 	- ![](https://lh3.googleusercontent.com/a-/ACB-R5RyyCT1iYWvMfpl0Gb9p1fhmkNAMzMpBXnnyEjv=s48-p)
 	- Charlie Berg
 	- chb@theworld.com
-	-
+	- ![](https://lh3.googleusercontent.com/a/AGNmyxbejZzbxRB0lK__6H8Nk7CgykpytkMWFbPt1XtA0vM=s48-p)
+	- Charles Magid
+	- cmmagid@gmail.com
+- ---
 - Upcoming Topics tbd for Salon
 	- where to meet
 	- how often to meet
