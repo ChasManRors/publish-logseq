@@ -6,5 +6,7 @@
 	- [[TV/recommendations]]
 - Health
 	- [[Plantar fasciitis]]
--
+- Ecovillage VT
+	- [[Visit Fric and Nancy Nov 13, 2022]]
+- Salon AI
 	-
