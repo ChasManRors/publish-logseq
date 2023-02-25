@@ -60,8 +60,7 @@
 - WAITING [#A] The next season of **Ted Lasso** This is the biggest surprise. Love it
 - WAITING Watch the next season of **Carnival Row** when it comes. Nice
 - DONE Watch the second season of **Warrior Nun**
-- DONE **Expanse**  #IN-PROGRESS [#A]
-  completed:: [[Feb 25th, 2023]]
+- [#A] **Expanse**   completed:: [[Feb 25th, 2023]]
 - ------------------------------------------------
 - # These I am watching Karen isn't interested
   background-color:: yellow
