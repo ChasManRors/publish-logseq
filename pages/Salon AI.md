@@ -1,0 +1,5 @@
+- Topics tbd
+	- where to meet
+	- how often to meet
+	- how long do we meet
+	- what is our first article of discussion
