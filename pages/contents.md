@@ -4,5 +4,6 @@
 - [[TV]]
 	- [[TV/Movie]]
 	- [[TV/recommendations]]
+- Health
+	- [[Plantar fasciitis]]
 -
-	-
