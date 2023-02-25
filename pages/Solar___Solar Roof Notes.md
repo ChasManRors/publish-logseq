@@ -1,10 +1,10 @@
 public:: true
-title:: Solar/Ye Solar Roof
+title:: Solar/Solar Roof Notes
 
 - [Cost](https://www.eia.gov/electricity/state/) of electricity by State
 - Best Introduction to Solar [click here](https://www.cleanenergyreviews.info/solar-panels)
 - [These](https://www.cleanenergyreviews.info/blog/most-powerful-solar-panels) are the most powerful Solar Arrays
-- If not all solar is on roof then some or all on [[Solar/Ye Solar Carport]]
+- If not all solar is on roof then some or all on [[Solar/Solar Carport Notes]]
 - Here is a [solar kit](https://www.google.com/shopping/product/434143281393975216?q=buy+solar+panels+with+micro+inverters&prds=epd:2426752309570714609,eto:2426752309570714609_0&sa=X&ved=0ahUKEwjFyYCSkZD4AhU_lnIEHcsfDgEQ9pwGCAs) for solar roof. [This](https://www.gogreensolar.com/products/13kw-diy-solar-panel-kit-sunspark-enphase) is the details
 - My Solar Roof top SpreadSheet [here](https://docs.google.com/spreadsheets/d/15OzMvjN_9yyLq_VfnQaWiL0mXP83SCD5Z3ZAchzZLBE/edit?usp=sharing)
 - BOM

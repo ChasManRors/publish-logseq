@@ -1,3 +1,3 @@
 - [[Solar]]
-	- [[Solar/Ye Solar Roof]]
-	- [[Solar/Ye Solar Carport]]
+	- [[Solar/Solar Roof Notes]]
+	- [[Solar/Solar Carport Notes]]
