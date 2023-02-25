@@ -342,7 +342,7 @@
  :publishing/all-pages-public? true
  :feature/enable-journals? false
  :default-home {:page "Contents"}
- :feature/enable-flashcards? true
+ :feature/enable-flashcards? false
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"
