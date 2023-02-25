@@ -54,7 +54,7 @@
 	- self-attention
 	- deep learning
 -
-- [[Feb 17th, 2023]]
+- ## [[Feb 17th, 2023]]
   background-color:: green
 - Scott’s ideas of ai topics for Salon #Scott #Alex #AI
 	- Knowledge Representation
