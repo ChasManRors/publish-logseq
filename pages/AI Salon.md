@@ -1,3 +1,10 @@
+- Upcoming Topics tbd for Salon
+	- where to meet
+	- how often to meet
+	- how long do we meet
+	- what is our first article of discussion
+- ----
+-
 - Participants
 	- ![](https://lh3.googleusercontent.com/contacts/ANvYiodHc202xpBzr-2YNpqJkUJiw5Kg_EpGoV0RUuCG2Bxc6ILysuT-=s48-p)
 	- Scott O'Hara
@@ -15,9 +22,3 @@
 	- ![](https://lh3.googleusercontent.com/a/AGNmyxbejZzbxRB0lK__6H8Nk7CgykpytkMWFbPt1XtA0vM=s48-p)
 	- Charles Magid
 	- cmmagid@gmail.com
-- ---
-- Upcoming Topics tbd for Salon
-	- where to meet
-	- how often to meet
-	- how long do we meet
-	- what is our first article of discussion
