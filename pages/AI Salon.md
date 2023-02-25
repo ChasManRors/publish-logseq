@@ -1,7 +1,9 @@
 - Participants
-	- seohara@gmail.com
 	- ![](https://lh3.googleusercontent.com/contacts/ANvYiodHc202xpBzr-2YNpqJkUJiw5Kg_EpGoV0RUuCG2Bxc6ILysuT-=s48-p)
-	- Scott O'Hara
+	- Scott O'Hara - seohara@gmail.com
+	- ![](https://lh3.googleusercontent.com/contacts/ANvYioc896UpK1gWKEeStpvMz3-DWYehrdDFA3a-rk8qExFLNAjfc54x=s48-p)
+	- Alex Krowitz
+	- alexkrowitz@gmail.com
 - Upcoming Topics tbd for Salon
 	- where to meet
 	- how often to meet
