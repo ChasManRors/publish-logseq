@@ -54,7 +54,7 @@
   background-color:: yellow
 - WAITING [#A] The mysterious Benedict’s society  show recommended by Alex #[[Recommended/Alex Lituchy]] It may not have another season. So much fun
 - WAITING For Star Trek strange new worlds to start up again, with Michael and guy who walks with his hands behind his back #IN-PROGRESS
-- WAITING For Picard to start up again #IN-PROGRESS [#A] We are addicted
+- [#A] For Picard to start up again We are addicted
 - WAITING For Star trek Discovery to start up again, with Captain Pike #IN-PROGRESS
 -
 - WAITING [#A] The next season of **Ted Lasso** This is the biggest surprise. Love it
