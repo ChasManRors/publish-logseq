@@ -1,4 +1,4 @@
-- Scott Sent me his notes on how to help with plantar fasciitis "
+- Scott Sent me his notes on how to help with plantar fasciitis **Thanks Scott**
 - Here is everything l know about living with plantar fasciitis. Hopefully, you won't need all this. The thing is, you can't know a priori what is going to help or not. You have to experiment. Here is what I've learned.
   title:: Plantar fasciitis
   
@@ -55,3 +55,4 @@
 	-
 	-
 - Scott
+-
