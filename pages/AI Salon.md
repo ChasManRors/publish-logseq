@@ -1,4 +1,4 @@
-- Topics tbd
+- Upcoming Topics tbd for Salon
 	- where to meet
 	- how often to meet
 	- how long do we meet
