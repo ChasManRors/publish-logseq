@@ -1,5 +1,5 @@
 public:: true
-title:: Project/Ye Solar Carport
+title:: Solar/Ye Solar Carport
 
 - ![image.png](../assets/image_1653838636855_0.png){:height 288, :width 365}
 - ^^^^^ The [Fixr](https://www.fixr.com/costs/build-carport#carport-cost-calculator) site - they have a cost calculator which guides you through options.

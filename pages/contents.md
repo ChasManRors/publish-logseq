@@ -1,2 +1,3 @@
-- [[Project/Ye Solar Roof]]
--
+- [[Solar]]
+	- [[Solar/Ye Solar Roof]]
+	- [[Solar/Ye Solar Carport]]
