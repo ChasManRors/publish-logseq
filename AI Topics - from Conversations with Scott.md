@@ -1,6 +1,6 @@
 - discussed deep learning and reenforcement learning
 -
-- [[Dec 16th, 2022]]
+- ## [[Dec 16th, 2022]]
   background-color:: green
 - What is **deep learning** - learns a function
 	- **Deep neural networks** - it figures the function - it is an input output sort of thing
@@ -27,7 +27,7 @@
 	- corpse of commen sense
 - Douglas Lenat the lisp system cycorp
 	-
-- [[Jan 30th, 2023]]
+- ## [[Jan 30th, 2023]]
   background-color:: green
 - machine learning street talk
 	- https://www.youtube.com/c/MachineLearningStreetTalk?app=desktop
