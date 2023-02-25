@@ -6,4 +6,4 @@
 	- [[TV/recommendations]]
 - Health
 	- [[Plantar fasciitis]]
--
+- ![unnamed.png](../assets/unnamed_1677351594231_0.png)
