@@ -9,7 +9,7 @@
   
   Stretching can help a lot if you remember to do it. I especially like the Soleus Stretch and the Step Stretch.  
   
-  ![image.png](https://mail.google.com/mail/u/0?ui=2&ik=88e0b4ea05&attid=0.1&permmsgid=msg-f:1720945174431417874&th=17e20684a7e84612&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9MnlBS-QBDg53gG0HYVzFmCEyQZiMRw8O0ZUqUgQgVP2uTlgssbotfQUG1tD31edVtOJLTKBGwLRG4tz4Bmvtnv_vy5MCKCi8IubS8wRnipy4RnvZB3GBcurE&disp=emb&realattid=ii_kxkjf7ab0)
+  ![image.png](https://mail.google.com/mail/u/0?ui=2&ik=88e0b4ea05&attid=0.1&permmsgid=msg-f:1720945174431417874&th=17e20684a7e84612&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9MnlBS-QBDg53gG0HYVzFmCEyQZiMRw8O0ZUqUgQgVP2uTlgssbotfQUG1tD31edVtOJLTKBGwLRG4tz4Bmvtnv_vy5MCKCi8IubS8wRnipy4RnvZB3GBcurE&disp=emb&realattid=ii_kxkjf7ab0){:height 32, :width 95}
   
   [https://i.pinimg.com/originals/5a/fa/77/5afa77a0ea867c76710caa1f7edcfb09.jpg](https://i.pinimg.com/originals/5a/fa/77/5afa77a0ea867c76710caa1f7edcfb09.jpg)
   
