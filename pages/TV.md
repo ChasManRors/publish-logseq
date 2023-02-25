@@ -2,7 +2,7 @@
 - # We Started watching these
   background-color:: yellow
 - **Midsomer Murders**  also In the spirit of murdoc mysteries #IN-PROGRESS
-- [**The Restaurant**](https://www.amazon.com/s?k=the+restaurant&i=instant-video&dc&crid=2TNX49KOT4FAY&sprefix=the+restu%2Cinstant-video%2C140&ref=a9_sc_1) tv show recommended by Jim  #[[Jim Corwin]] #[[Recommended/Jim Corwin]] #IN-PROGRESS [#A]
+- [#A] [**The Restaurant**](https://www.amazon.com/s?k=the+restaurant&i=instant-video&dc&crid=2TNX49KOT4FAY&sprefix=the+restu%2Cinstant-video%2C140&ref=a9_sc_1) tv show recommended by Jim  #[[Jim Corwin]] #[[Recommended/Jim Corwin]]
 - **White Lotus** #[[Recommended/Barry Skoff]] #[[Keep Watching]] #[[Recommended/Dennis Skoff]] #IN-PROGRESS
 - **Breeders** #[[Recommended/Dennis Skoff]]
 - **Poldark**  #IN-PROGRESS
@@ -12,7 +12,7 @@
 - Next season of **Lock and Key**  #IN-PROGRESS
 - **The Morning Show**  #IN-PROGRESS
 - See the second season of **Lost in Space**  #IN-PROGRESS
-- **Task Master** #IN-PROGRESS [#A] on youtube
+- [#A] **Task Master** on youtube
 - **Sharper Objets** reporter goes back to her small town origins  #IN-PROGRESS
 - **Naomi** you  #IN-PROGRESS About adopted alien super hero. Yike too young
 - **The Staircase**  #IN-PROGRESS
