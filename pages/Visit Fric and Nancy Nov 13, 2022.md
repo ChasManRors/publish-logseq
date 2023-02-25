@@ -1,5 +1,4 @@
-public:: true
-
+- alias: Ecovillage
 -
 # Haviland's Service Station - 193 Green St, Brattleboro, VT 05301 (10:16 AM -
 background-color:: purple
