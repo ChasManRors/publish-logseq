@@ -11,4 +11,5 @@
 - [[AI Salon]]
 	- [[AI Salon/Setup]]
 	- [[AI Topics - from Conversations with Scott]]
-- E
+- Community
+	- [[Boswell]]
