@@ -15,6 +15,9 @@
 	- ![](https://lh3.googleusercontent.com/a-/ACB-R5RyyCT1iYWvMfpl0Gb9p1fhmkNAMzMpBXnnyEjv=s48-p)
 	- Charlie Berg
 	- chb@theworld.com
+	- ![](https://lh3.googleusercontent.com/contacts/ANvYiocs04U89TzNyUkRLPYlB8JAP6e_i8ahC8XIONsacG_YWo8HOTbY=s48-p)
+	- Kay Rhodes
+	- masukomi@masukomi.org
 	- ![](https://lh3.googleusercontent.com/contacts/ANvYiodX6Y8MwzHCpL-xCDOrJA9hjQGJp-Ijm4okn8QomCikkj-cNu9W=s48-p) 
 	  Maybe
 	- Jonathan Young
