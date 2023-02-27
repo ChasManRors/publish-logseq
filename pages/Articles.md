@@ -1,2 +1,3 @@
-- [We employed ChatGPT as an ML Engineer for a day - this is what we learned | Encord](https://encord.com/blog/we-employed-chatgpt-as-an-ml-engineer-this-is-what-we-learned/) #[[Recommended/Rob Skoff]]
+- # Of interest
+- [We employed ChatGPT as an ML Engineer for a day - this is what we learned | Encord](https://encord.com/blog/we-employed-chatgpt-as-an-ml-engineer-this-is-what-we-learned/) #[[Recommended/Kay Rhodes]]
 -
